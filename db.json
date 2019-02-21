@@ -1,0 +1,23 @@
+{
+"produk":	
+[{"id":1,"nama":"Vicuna","kategori":"Mauv"},
+{"id":2,"nama":"Tokay gecko","kategori":"Red"},
+{"id":3,"nama":"African snake (unidentified)","kategori":"Crimson"},
+{"id":4,"nama":"Sungazer, yellow-brown","kategori":"Violet"},
+{"id":5,"nama":"Constrictor, eastern boa","kategori":"Maroon"},
+{"id":6,"nama":"Laughing kookaburra","kategori":"Teal"},
+{"id":7,"nama":"Galapagos mockingbird","kategori":"Orange"},
+{"id":8,"nama":"Boa, malagasy ground","kategori":"Mauv"},
+{"id":9,"nama":"Bird, pied butcher","kategori":"Blue"},
+{"id":10,"nama":"Eagle, white-bellied sea","kategori":"Red"},
+{"id":11,"nama":"Coyote","kategori":"Purple"},
+{"id":12,"nama":"Partridge, coqui","kategori":"Pink"},
+{"id":13,"nama":"Avocet, pied","kategori":"Orange"},
+{"id":14,"nama":"Greater sage grouse","kategori":"Orange"},
+{"id":15,"nama":"Moose","kategori":"Teal"},
+{"id":16,"nama":"Squirrel glider","kategori":"Puce"},
+{"id":17,"nama":"Squirrel, eastern fox","kategori":"Turquoise"},
+{"id":18,"nama":"Pale white-eye","kategori":"Violet"},
+{"id":19,"nama":"Langur, common","kategori":"Teal"},
+{"id":20,"nama":"African darter","kategori":"Yellow"}]
+}

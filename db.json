@@ -1,83 +1,83 @@
 {
 "produk":[{
   "id": 1,
-  "kategori": "Indigo",
-  "produk": "Great skua"
+  "kategori": "Pink",
+  "nama": "Goose, cereopsis"
 }, {
   "id": 2,
-  "kategori": "Turquoise",
-  "produk": "Tortoise, galapagos"
+  "kategori": "Blue",
+  "nama": "Green vine snake"
 }, {
   "id": 3,
-  "kategori": "Maroon",
-  "produk": "Yellow-headed caracara"
+  "kategori": "Teal",
+  "nama": "Eagle, pallas's fish"
 }, {
   "id": 4,
-  "kategori": "Goldenrod",
-  "produk": "Mandras tree shrew"
+  "kategori": "Teal",
+  "nama": "Puma"
 }, {
   "id": 5,
-  "kategori": "Blue",
-  "produk": "Capuchin, white-fronted"
+  "kategori": "Turquoise",
+  "nama": "Reindeer"
 }, {
   "id": 6,
-  "kategori": "Puce",
-  "produk": "African skink"
+  "kategori": "Maroon",
+  "nama": "Thomson's gazelle"
 }, {
   "id": 7,
-  "kategori": "Mauv",
-  "produk": "Mexican beaded lizard"
+  "kategori": "Green",
+  "nama": "Asian elephant"
 }, {
   "id": 8,
-  "kategori": "Goldenrod",
-  "produk": "Common waterbuck"
+  "kategori": "Maroon",
+  "nama": "Small-clawed otter"
 }, {
   "id": 9,
-  "kategori": "Yellow",
-  "produk": "Trotter, lily"
+  "kategori": "Teal",
+  "nama": "Fox, savanna"
 }, {
   "id": 10,
-  "kategori": "Turquoise",
-  "produk": "Common green iguana"
+  "kategori": "Khaki",
+  "nama": "Red-winged hawk (unidentified)"
 }, {
   "id": 11,
-  "kategori": "Puce",
-  "produk": "Blue duck"
+  "kategori": "Mauv",
+  "nama": "Flamingo, lesser"
 }, {
   "id": 12,
-  "kategori": "Violet",
-  "produk": "Tropical buckeye butterfly"
+  "kategori": "Yellow",
+  "nama": "Common seal"
 }, {
   "id": 13,
-  "kategori": "Violet",
-  "produk": "Elephant, african"
+  "kategori": "Fuscia",
+  "nama": "Small-toothed palm civet"
 }, {
   "id": 14,
-  "kategori": "Yellow",
-  "produk": "White spoonbill"
+  "kategori": "Khaki",
+  "nama": "Oryx, beisa"
 }, {
   "id": 15,
-  "kategori": "Purple",
-  "produk": "Galapagos mockingbird"
+  "kategori": "Green",
+  "nama": "Penguin, little blue"
 }, {
   "id": 16,
-  "kategori": "Indigo",
-  "produk": "Dragon, western bearded"
+  "kategori": "Khaki",
+  "nama": "Great kiskadee"
 }, {
   "id": 17,
-  "kategori": "Puce",
-  "produk": "Hyena, spotted"
+  "kategori": "Violet",
+  "nama": "Pintail, white-cheeked"
 }, {
   "id": 18,
-  "kategori": "Yellow",
-  "produk": "Greater roadrunner"
+  "kategori": "Aquamarine",
+  "nama": "Indian jackal"
 }, {
   "id": 19,
-  "kategori": "Khaki",
-  "produk": "Deer, white-tailed"
+  "kategori": "Violet",
+  "nama": "Steenbok"
 }, {
   "id": 20,
-  "kategori": "Maroon",
-  "produk": "Cat, miner's"
+  "kategori": "Mauv",
+  "nama": "Antelope ground squirrel"
 }]
 }
